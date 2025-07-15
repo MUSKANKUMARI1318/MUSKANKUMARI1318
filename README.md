@@ -1,7 +1,7 @@
-# 💫 Hi 👋, I'm Muskan Kumari
+#  Hi 👋, I'm Muskan Kumari
 **A passionate  Frontend Developer from India**
 
-Email Me 👉 ✉️ **mk0008349@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **mk0008349@gmail.com** For Collaboration/Project or Anything Else. 
 - 🌱 **I’m currently learning:** Java script
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 😄 **Pronouns:*She/her* 
