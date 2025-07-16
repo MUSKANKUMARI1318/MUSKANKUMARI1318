@@ -9,10 +9,9 @@ Email Me 👉 ✉️ **mk0008349@gmail.com** For Collaboration/Project or Anythi
 
 - ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MUSKANKUMARI1318&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-## 🌐 Socials:
-[![in](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Muskan Kumari) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mk0008349@gmail.com) 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/muskan-kumari-6620402aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" 
 <!-- Snake Game Repo View -->
 
 
