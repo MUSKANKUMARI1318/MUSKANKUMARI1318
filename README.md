@@ -4,7 +4,6 @@
 - 🌱 **I’m currently learning:** Java script
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 😄 **Pronouns:*She/her* 
--    ** How to reach me:**mk0008349@gmail.com
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 - ## 🏆 GitHub Trophies
