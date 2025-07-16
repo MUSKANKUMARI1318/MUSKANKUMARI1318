@@ -9,12 +9,11 @@ Email Me 👉 ✉️ **mk0008349@gmail.com** For Collaboration/Project or Anythi
 
 - ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MUSKANKUMARI1318&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/muskan-kumari-6620402aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" 
-<!-- Snake Game Repo View -->
-
-
+<p align="center">
+ <a href="https://linkedin.com/in/Muskan Kumari">
+    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
+  </a>
+</p>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
