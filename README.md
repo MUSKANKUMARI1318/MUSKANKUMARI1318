@@ -11,7 +11,7 @@ Email Me 👉 ✉️ **mk0008349@gmail.com** For Collaboration/Project or Anythi
 ![](https://github-profile-trophy.vercel.app/?username=MUSKANKUMARI1318&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <p align="center">
  <a href="https://linkedin.com/in/Muskan Kumari">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
+    <img src=https://www.linkedin.com/in/muskan-kumari-6620402aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
   </a>
 </p>
 
