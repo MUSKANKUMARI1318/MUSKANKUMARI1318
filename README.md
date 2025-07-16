@@ -1,19 +1,15 @@
  <h1 align="center">Hi 👋, I'm Muskan Kumari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-Email Me 👉 ✉️ **mk0008349@gmail.com** For Collaboration/Project or Anything Else. 
+. 
 - 🌱 **I’m currently learning:** Java script
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 😄 **Pronouns:*She/her* 
+-    ** How to reach me:**mk0008349@gmail.com
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 - ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MUSKANKUMARI1318&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<p align="center">
- <a href="https://linkedin.com/in/Muskan Kumari">
-    <img src=https://www.linkedin.com/in/muskan-kumari-6620402aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-  </a>
-</p>
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
