@@ -1,5 +1,5 @@
-  #          Hi 👋, I'm Muskan Kumari 
-  **   A passionate  Frontend Developer from India **
+ <h1 align="center">Hi 👋, I'm Sanjeev Kumar Pandit</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 Email Me 👉 ✉️ **mk0008349@gmail.com** For Collaboration/Project or Anything Else. 
 - 🌱 **I’m currently learning:** Java script
