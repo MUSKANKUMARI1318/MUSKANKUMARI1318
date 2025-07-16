@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Muskan Kumari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-. 
+
 - 🌱 **I’m currently learning:** Java script
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 😄 **Pronouns:*She/her* 
