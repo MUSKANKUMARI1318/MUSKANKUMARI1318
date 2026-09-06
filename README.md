@@ -1,159 +1,179 @@
-<!-- ===================== HEADER ===================== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C9FF&height=200&section=header&text=Muskan%20Kumari&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Muskan%20Kumari&fontSize=48&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
 
-<h2>💻 Full Stack Developer</h2>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Java+%7C+Python+%7C+JavaScript;Building+Real-World+Web+Applications;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=7C3AED&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+MERN;Java+%7C+Python+%7C+JavaScript;DSA+%7C+Problem+Solving;Building+Projects+That+Matter+%F0%9F%9A%80"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=MUSKANKUMARI1318&label=Profile%20Views&color=6A5ACD&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=MUSKANKUMARI1318&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 💫 About Me
 
 ```javascript
 const muskan = {
-    name: "Muskan Kumari",
     role: "Full Stack Developer",
-    education: "B.Tech CSE",
-    currentlyLearning: ["MERN Stack", "DSA"],
+    education: "B.Tech in Computer Science & Engineering",
+    stack: "MERN",
     languages: ["Java", "Python", "JavaScript", "C"],
-    interests: ["Web Development", "Problem Solving", "Technology"],
-    goal: "Build impactful and scalable applications 🚀"
+    focus: ["Web Development", "DSA", "Problem Solving"],
+    mindset: "Learn → Build → Improve 🚀"
 };
 ```
 
-🎓 Computer Science & Engineering student
-💻 Passionate about **Full Stack Web Development**
-🌱 Currently strengthening my **MERN Stack** skills
-🧠 Practicing **Data Structures & Algorithms**
-🚀 Love building practical and user-friendly applications
-🤝 Open to collaboration, internships and exciting projects
-📫 **Email:** [mk0008349@gmail.com](mailto:mk0008349@gmail.com)
-
 ---
 
-## ⚡ Tech Stack
+## 🛠️ My Tech Arsenal
 
-### 💻 Programming Languages
+<div align="center">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,java,python,js" />
-</p>
+### 💻 Languages
 
-### 🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=java,python,c,js" />
 
-<p align="center">
+### 🎨 Frontend
+
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
-</p>
 
 ### ⚙️ Backend & Database
 
-<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
 
-### 🛠️ Tools & Platforms
+### 🔧 Tools
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,firebase,docker" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,firebase" />
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### ✈️ Airlines Booking System
 
-A responsive web application that allows users to **search flights, view flight details and manage bookings**.
+A responsive airline booking platform where users can **search available flights, explore flight details and manage bookings**.
 
-**Tech:** HTML • CSS • JavaScript
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript`
+
+<a href="https://github.com/MUSKANKUMARI1318/Airlines-Booking-System">
+<img src="https://img.shields.io/badge/View%20Project-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
 
 ### 🏨 Online Hotel Reservation System
 
-A web-based hotel booking platform designed to provide a smooth experience for **searching hotels, viewing rooms and managing reservations**.
+A user-friendly hotel reservation application designed for **searching hotels, exploring rooms and managing reservations**.
 
-**Tech:** React • JavaScript • CSS
+**Tech Stack**
 
----
+`React` `JavaScript` `CSS`
 
-## 🧠 Currently Learning
+<a href="https://github.com/MUSKANKUMARI1318">
+<img src="https://img.shields.io/badge/View%20Project-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/MERN%20Stack-000000?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
-
-<img src="https://img.shields.io/badge/DSA-6A5ACD?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Problem%20Solving-00C853?style=for-the-badge"/>
-
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-# 🏆 GitHub Trophies
+## 📚 Currently Learning
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MUSKANKUMARI1318&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=7C3AED&center=true&vCenter=true&width=600&lines=MERN+Stack+Development;Data+Structures+%26+Algorithms;Problem+Solving;Building+Better+Web+Applications+%F0%9F%9A%80"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Statistics
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MUSKANKUMARI1318&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=MUSKANKUMARI1318&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUSKANKUMARI1318&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MUSKANKUMARI1318&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=4&title=Stars,Followers,Commits,Repositories" width="90%"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MUSKANKUMARI1318&bg_color=0d1117&color=6A5ACD&line=00C9FF&point=ffffff&area=true&hide_border=true"/>
+<table>
+<tr>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=MUSKANKUMARI1318&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" width="480"/>
+
+</td>
+<td>
+
+<img src="https://streak-stats.demolab.com?user=MUSKANKUMARI1318&theme=tokyonight&hide_border=true" width="480"/>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUSKANKUMARI1318&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="420"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 💡 Random Developer Quote
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MUSKANKUMARI1318&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+## 💭 Developer Mindset
+
+<div align="center">
+
+> **"Code. Learn. Build. Fail. Improve. Repeat. 🚀"**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Consistency+beats+motivation.;Every+bug+is+a+lesson.;Keep+building%2C+keep+growing+%F0%9F%92%9C"/>
+
+</div>
+
+---
+
+## 🌐 Let's Connect
 
 <div align="center">
 
 <a href="mailto:mk0008349@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/muskan-kumari-6620402aa">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/MUSKANKUMARI1318">
@@ -162,12 +182,14 @@ A web-based hotel booking platform designed to provide a smooth experience for *
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### 💜 "Code. Learn. Build. Repeat." 🚀
+### ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:6A5ACD&height=120&section=footer"/>
+**If you like my work, consider giving a ⭐ to my repositories.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 </div>
