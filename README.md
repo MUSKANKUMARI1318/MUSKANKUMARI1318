@@ -55,7 +55,8 @@ const muskan = {
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### ✈️ Airlines Booking System
 
@@ -65,13 +66,15 @@ A responsive airline booking platform where users can **search available flights
 
 `HTML` `CSS` `JavaScript`
 
+<br>
+
 <a href="https://github.com/MUSKANKUMARI1318/Airlines-Booking-System">
 <img src="https://img.shields.io/badge/View%20Project-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🏨 Online Hotel Reservation System
 
@@ -81,11 +84,14 @@ A user-friendly hotel reservation application designed for **searching hotels, e
 
 `React` `JavaScript` `CSS`
 
+<br>
+
 <a href="https://github.com/MUSKANKUMARI1318">
 <img src="https://img.shields.io/badge/View%20Project-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
+
 </tr>
 </table>
 
@@ -105,7 +111,7 @@ A user-friendly hotel reservation application designed for **searching hotels, e
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MUSKANKUMARI1318&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=4&title=Stars,Followers,Commits,Repositories" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MUSKANKUMARI1318&theme=tokyonight&no-frame=true&no-bg=true&margin-w=20&row=1&column=4&title=Stars,Followers,Commits,Repositories" width="100%"/>
 
 </div>
 
@@ -117,24 +123,29 @@ A user-friendly hotel reservation application designed for **searching hotels, e
 
 <table>
 <tr>
-<td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MUSKANKUMARI1318&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" width="480"/>
+<td align="center" width="50%">
 
-</td>
-<td>
-
-<img src="https://streak-stats.demolab.com?user=MUSKANKUMARI1318&theme=tokyonight&hide_border=true" width="480"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MUSKANKUMARI1318&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" width="100%"/>
 
 </td>
+
+<td align="center" width="50%">
+
+<img src="https://streak-stats.demolab.com?user=MUSKANKUMARI1318&theme=tokyonight&hide_border=true" width="100%"/>
+
+</td>
+
 </tr>
 
 <tr>
+
 <td colspan="2" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUSKANKUMARI1318&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="420"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUSKANKUMARI1318&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="45%"/>
 
 </td>
+
 </tr>
 </table>
 
@@ -156,7 +167,7 @@ A user-friendly hotel reservation application designed for **searching hotels, e
 
 <div align="center">
 
-> **"Code. Learn. Build. Fail. Improve. Repeat. 🚀"**
+### 🚀 Learn → Build → Solve → Improve
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Consistency+beats+motivation.;Every+bug+is+a+lesson.;Keep+building%2C+keep+growing+%F0%9F%92%9C"/>
 
@@ -172,9 +183,13 @@ A user-friendly hotel reservation application designed for **searching hotels, e
 <img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+  
+
 <a href="https://www.linkedin.com/in/muskan-kumari-6620402aa">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+  
 
 <a href="https://github.com/MUSKANKUMARI1318">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -189,6 +204,8 @@ A user-friendly hotel reservation application designed for **searching hotels, e
 ### ⭐ Thanks for visiting my profile!
 
 **If you like my work, consider giving a ⭐ to my repositories.**
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
