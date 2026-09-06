@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Muskan%20Kumari&fontSize=48&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:06B6D4,100:EC4899&height=200&section=header&text=Muskan%20Kumari&fontSize=52&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Developer&descAlignY=62&descSize=18"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=7C3AED&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+MERN;Java+%7C+Python+%7C+JavaScript;DSA+%7C+Problem+Solving;Building+Projects+That+Matter+%F0%9F%9A%80"/>
 
@@ -23,9 +23,6 @@ const muskan = {
     focus: ["Web Development", "DSA", "Problem Solving"],
     mindset: "Learn → Build → Improve 🚀"
 };
-```
-
----
 
 ## 🛠️ My Tech Arsenal
 
