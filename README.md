@@ -1,80 +1,56 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                        HERO SECTION                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ===================== HERO SECTION ===================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=MUSKAN%20KUMARI&fontSize=52&fontAlignY=38&fontColor=ffffff&animation=fadeIn&color=0:09001A,25:3B0764,55:7C3AED,80:C026D3,100:EC4899"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:EC4899&height=220&section=header&text=✦%20MUSKAN%20KUMARI%20✦&fontSize=48&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
 
 <br>
 
-<h2>⚡ FULL STACK DEVELOPER</h2>
+<table>
+<tr>
+<td align="center">
+
+<h1>⚡ FULL STACK DEVELOPER ⚡</h1>
 
 <p>
-  <b>MERN</b> &nbsp;•&nbsp;
-  <b>Java</b> &nbsp;•&nbsp;
-  <b>Python</b> &nbsp;•&nbsp;
-  <b>JavaScript</b>
+<b>Building</b> •
+<b>Learning</b> •
+<b>Solving</b> •
+<b>Growing</b>
 </p>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Building+Modern+Web+Applications+%F0%9F%92%BB;Turning+Ideas+Into+Clean+Code+%E2%9C%A8;DSA+%7C+Problem+Solving+%7C+Development;Learning+Today%2C+Building+Tomorrow+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=800&color=8B5CF6&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;Java+%7C+Python+%7C+JavaScript+%7C+C;DSA+%7C+Problem+Solving;Building+Projects+That+Matter+%F0%9F%9A%80;Always+Learning%2C+Always+Improving+%E2%9C%A8"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=MUSKANKUMARI1318&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=MUSKANKUMARI1318&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge"/>
 
-&nbsp;
-
-<a href="https://github.com/MUSKANKUMARI1318">
-<img src="https://img.shields.io/github/followers/MUSKANKUMARI1318?label=FOLLOWERS&style=for-the-badge&color=9333EA&logo=github"/>
-</a>
+</td>
+</tr>
+</table>
 
 </div>
 
-<br>
-
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                         ABOUT ME                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ===================== ABOUT ME ===================== -->
 
-## ✦ About Me
+## 💫 About Me
 
 <table>
 <tr>
 
-<td width="55%" valign="top">
-
-### 👋 Hey, I'm Muskan!
-
-I'm a **Computer Science Engineering student** and an aspiring **Full Stack Developer** who enjoys turning ideas into real-world applications.
-
-I love working with modern web technologies, solving problems with code, and continuously improving my development skills.
-
-<br>
-
-### 🎯 What I Focus On
-
-- 💻 Full Stack Web Development
-- ⚡ MERN Stack
-- 🧠 Data Structures & Algorithms
-- 🔎 Problem Solving
-- 🚀 Building Practical Projects
-- 📚 Continuous Learning
-
-</td>
-
-<td width="45%" valign="top">
+<td width="60%" valign="top">
 
 ```javascript
 const muskan = {
+
+    name: "Muskan Kumari",
+
     role: "Full Stack Developer",
 
     education:
-        "B.Tech CSE",
+        "B.Tech in Computer Science & Engineering",
 
     stack: "MERN",
 
@@ -83,6 +59,12 @@ const muskan = {
         "Python",
         "JavaScript",
         "C"
+    ],
+
+    interests: [
+        "Web Development",
+        "DSA",
+        "Problem Solving"
     ],
 
     currentlyLearning: [
