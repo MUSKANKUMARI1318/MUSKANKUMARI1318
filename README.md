@@ -12,6 +12,7 @@
 
 ---
 
+
 ## 💫 About Me
 
 ```javascript
@@ -23,6 +24,9 @@ const muskan = {
     focus: ["Web Development", "DSA", "Problem Solving"],
     mindset: "Learn → Build → Improve 🚀"
 };
+```
+
+---
 
 ## 🛠️ My Tech Arsenal
 
