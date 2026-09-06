@@ -127,21 +127,19 @@ A user-friendly hotel reservation application designed for **searching hotels, e
 
 ---
 
-## 🌐 Let's Connect
+🌐 Let's Connect
 
 <div align="center">
 
-<a href="mailto:mk0008349@gmail.com">
+<a href="mailto:mk0008349@gmail.com"> <img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 
-</a>
+  
 
-<a href="https://www.linkedin.com/in/muskan-kumari-6620402aa">
+<a href="https://www.linkedin.com/in/muskan-kumari-6620402aa"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
-</a>
+  
 
-<a href="https://github.com/MUSKANKUMARI1318">
-
-</a>
+<a href="https://github.com/MUSKANKUMARI1318"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
 </div>
 
@@ -149,9 +147,11 @@ A user-friendly hotel reservation application designed for **searching hotels, e
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile!
 
-**If you like my work, consider giving a ⭐ to my repositories.**
+If you like my work, consider giving a ⭐ to my repositories.
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
