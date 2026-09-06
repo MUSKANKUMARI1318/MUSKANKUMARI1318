@@ -99,22 +99,6 @@ A user-friendly hotel reservation application designed for **searching hotels, e
 
 </div>
 
----
-
-
-
----
-
-
-
-
-
----
-
-
-
----
-
 ## 💭 Developer Mindset
 
 <div align="center">
