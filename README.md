@@ -105,30 +105,9 @@ A user-friendly hotel reservation application designed for **searching hotels, e
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
 
-<table>
-<tr>
-<td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MUSKANKUMARI1318&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" width="480"/>
-
-</td>
-
-</tr>
-
-<tr>
-<td colspan="2" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUSKANKUMARI1318&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="420"/>
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
