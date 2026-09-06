@@ -1,12 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Muskan%20Kumari&fontSize=48&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=7C3AED&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+MERN;Java+%7C+Python+%7C+JavaScript;DSA+%7C+Problem+Solving;Building+Projects+That+Matter+%F0%9F%9A%80"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:9333EA,100:EC4899&height=190&section=header&text=%E2%9C%A6%20MUSKAN%20KUMARI%20%E2%9C%A6&fontSize=48&fontAlignY=38&animation=fadeIn&fontColor=ffffff"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=MUSKANKUMARI1318&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
+<table>
+<tr>
+<td align="center" width="700">
+
+<h2>⚡ FULL STACK DEVELOPER ⚡</h2>
+
+<p>
+<b>MERN</b> &nbsp;•&nbsp;
+<b>Java</b> &nbsp;•&nbsp;
+<b>Python</b> &nbsp;•&nbsp;
+<b>JavaScript</b>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=7C3AED&center=true&vCenter=true&width=700&lines=Turning+Ideas+Into+Code+%F0%9F%92%BB;Full+Stack+Developer+%7C+MERN;Java+%7C+Python+%7C+JavaScript;DSA+%7C+Problem+Solving;Building+Projects+That+Matter+%F0%9F%9A%80"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=MUSKANKUMARI1318&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"/>
 
 </div>
 
@@ -19,194 +40,19 @@ const muskan = {
     role: "Full Stack Developer",
     education: "B.Tech in Computer Science & Engineering",
     stack: "MERN",
-    languages: ["Java", "Python", "JavaScript", "C"],
-    focus: ["Web Development", "DSA", "Problem Solving"],
+
+    languages: [
+        "Java",
+        "Python",
+        "JavaScript",
+        "C"
+    ],
+
+    focus: [
+        "Web Development",
+        "DSA",
+        "Problem Solving"
+    ],
+
     mindset: "Learn → Build → Improve 🚀"
 };
-```
-
----
-
-## 🛠️ My Tech Arsenal
-
-<div align="center">
-
-### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,c,js" />
-
-### 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
-
-### ⚙️ Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-
-### 🔧 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,firebase" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### ✈️ Airlines Booking System
-
-A responsive airline booking platform where users can **search available flights, explore flight details and manage bookings**.
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript`
-
-<br>
-
-<a href="https://github.com/MUSKANKUMARI1318/Airlines-Booking-System">
-<img src="https://img.shields.io/badge/View%20Project-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🏨 Online Hotel Reservation System
-
-A user-friendly hotel reservation application designed for **searching hotels, exploring rooms and managing reservations**.
-
-**Tech Stack**
-
-`React` `JavaScript` `CSS`
-
-<br>
-
-<a href="https://github.com/MUSKANKUMARI1318">
-<img src="https://img.shields.io/badge/View%20Project-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 📚 Currently Learning
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=7C3AED&center=true&vCenter=true&width=600&lines=MERN+Stack+Development;Data+Structures+%26+Algorithms;Problem+Solving;Building+Better+Web+Applications+%F0%9F%9A%80"/>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MUSKANKUMARI1318&theme=tokyonight&no-frame=true&no-bg=true&margin-w=20&row=1&column=4&title=Stars,Followers,Commits,Repositories" width="100%"/>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MUSKANKUMARI1318&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" width="100%"/>
-
-</td>
-
-<td align="center" width="50%">
-
-<img src="https://streak-stats.demolab.com?user=MUSKANKUMARI1318&theme=tokyonight&hide_border=true" width="100%"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUSKANKUMARI1318&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="45%"/>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MUSKANKUMARI1318&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
-## 💭 Developer Mindset
-
-<div align="center">
-
-### 🚀 Learn → Build → Solve → Improve
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Consistency+beats+motivation.;Every+bug+is+a+lesson.;Keep+building%2C+keep+growing+%F0%9F%92%9C"/>
-
-</div>
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-<a href="mailto:mk0008349@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-  
-
-<a href="https://www.linkedin.com/in/muskan-kumari-6620402aa">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-  
-
-<a href="https://github.com/MUSKANKUMARI1318">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**If you like my work, consider giving a ⭐ to my repositories.**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
-</div>
