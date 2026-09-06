@@ -101,13 +101,7 @@ A user-friendly hotel reservation application designed for **searching hotels, e
 
 ---
 
-## 🏆 GitHub Achievements
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MUSKANKUMARI1318&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=4&title=Stars,Followers,Commits,Repositories" width="90%"/>
-
-</div>
 
 ---
 
@@ -122,11 +116,7 @@ A user-friendly hotel reservation application designed for **searching hotels, e
 <img src="https://github-readme-stats.vercel.app/api?username=MUSKANKUMARI1318&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" width="480"/>
 
 </td>
-<td>
 
-<img src="https://streak-stats.demolab.com?user=MUSKANKUMARI1318&theme=tokyonight&hide_border=true" width="480"/>
-
-</td>
 </tr>
 
 <tr>
@@ -142,13 +132,7 @@ A user-friendly hotel reservation application designed for **searching hotels, e
 
 ---
 
-## 📈 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MUSKANKUMARI1318&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
 
 ---
 
