@@ -2,7 +2,7 @@
 
 <br><br>
 
-<h1>ＭＵＳＫＡＮ</h1>
+<h1>✨ MUSKAN KUMARI ✨</h1>
 
 <p>
   <b>FULL STACK DEVELOPER</b>
@@ -12,15 +12,15 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=17&duration=2600&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=Hello%2C+World!+%F0%9F%91%8B;I+build+things+for+the+web.;GSAP+for+motion.;Bootstrap+for+responsive+design.;JavaScript+for+the+magic.;And+lots+of+coffee+%E2%98%95"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=17&duration=2600&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=Hello%2C+World!+%F0%9F%91%8B;I+build+things+for+the+web.;GSAP+for+smooth+animations.;Bootstrap+for+responsive+design.;JavaScript+for+the+magic.;And+lots+of+coffee+%E2%98%95"/>
 
 <br><br>
 
 <p>
-  <img src="https://img.shields.io/badge/GSAP-Animation-88CE02?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Bootstrap-UI-7952B3?style=flat-square"/>
-  <img src="https://img.shields.io/badge/JavaScript-Core-F7DF1E?style=flat-square"/>
-  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/GSAP-Animation-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-UI-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-Core-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 
 <br>
@@ -46,6 +46,18 @@
 </div>
 
 ---
+
+## 💫 About Me
+
+```javascript
+const muskan = {
+    role: "Full Stack Developer",
+    education: "B.Tech in Computer Science & Engineering",
+    stack: "MERN",
+    languages: ["Java", "Python", "JavaScript", "C"],
+    focus: ["Web Development", "DSA", "Problem Solving"],
+    mindset: "Learn → Build → Improve 🚀"
+};
 
 
 ## 💫 About Me
