@@ -58,6 +58,20 @@ const muskan = {
     focus: ["Web Development", "DSA", "Problem Solving"],
     mindset: "Learn → Build → Improve 🚀"
 };
+## 💫 About Me
+
+```javascript
+const muskan = {
+    role: "Full Stack Developer",
+    education: "B.Tech in Computer Science & Engineering",
+    stack: "MERN",
+    languages: ["Java", "Python", "JavaScript", "C"],
+    focus: ["Web Development", "DSA", "Problem Solving"],
+    mindset: "Learn → Build → Improve 🚀"
+};
+```
+
+---
 
 ## 🛠️ My Tech Arsenal
 
@@ -198,6 +212,7 @@ A user-friendly hotel reservation application designed for
 
 <table>
 <tr>
+
 <td align="center">
 ✨<br>
 <b>Learn</b><br>
@@ -215,6 +230,7 @@ A user-friendly hotel reservation application designed for
 <b>Improve</b><br>
 <sub>Better than yesterday</sub>
 </td>
+
 </tr>
 </table>
 
@@ -265,6 +281,12 @@ A user-friendly hotel reservation application designed for
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 </div>
+
+
+
+
+
+
 
 
 
