@@ -1,47 +1,63 @@
 <div align="center">
 
-<br><br>
+<br>
 
-<h1>ＭＵＳＫＡＮ</h1>
+# ✦ MUSKAN ✦
+
+### `FULL STACK DEVELOPER` • `CREATIVE CODER`
 
 <p>
-  <b>FULL STACK DEVELOPER</b>
-  <br>
-  <sub>Building • Designing • Animating • Learning</sub>
+  <i>Turning ideas into responsive interfaces & interactive experiences.</i>
 </p>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=17&duration=2600&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=Hello%2C+World!+%F0%9F%91%8B;I+build+things+for+the+web.;GSAP+for+motion.;Bootstrap+for+responsive+design.;JavaScript+for+the+magic.;And+lots+of+coffee+%E2%98%95"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+with+JavaScript+%26+React;Designing+with+Bootstrap;Animating+with+GSAP;Solving+problems+with+Java+%26+Python;Always+learning.+Always+building.+%F0%9F%9A%80"/>
 
 <br><br>
 
-<p>
-  <img src="https://img.shields.io/badge/GSAP-Animation-88CE02?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Bootstrap-UI-7952B3?style=flat-square"/>
-  <img src="https://img.shields.io/badge/JavaScript-Core-F7DF1E?style=flat-square"/>
-  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square"/>
-</p>
+<table>
+<tr>
+<td align="center">
+  
+### ⚡ FRONTEND
+
+`HTML` • `CSS` • `JavaScript`  
+`React` • `Bootstrap` • `GSAP`
+
+</td>
+
+<td align="center">
+
+### 🛠️ BACKEND
+
+`Node.js` • `Express.js`  
+`MongoDB` • `REST APIs`
+
+</td>
+
+<td align="center">
+
+### 🧠 PROBLEM SOLVING
+
+`Java` • `Python`  
+`DSA` • `Algorithms`
+
+</td>
+</tr>
+</table>
 
 <br>
 
-<p>
-  <code>Frontend</code> ─── <code>Backend</code> ─── <code>Database</code>
-</p>
-
-<p>
-  HTML • CSS • JavaScript • React • GSAP • Bootstrap
-  <br>
-  Node.js • Express • MongoDB • Java • Python
-</p>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=MUSKANKUMARI1318&label=PROFILE%20VIEWS&style=for-the-badge&color=7C3AED"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,gsap,nodejs,express,mongodb,java,python,git,github" />
 
 <br><br>
 
-<sub>✦ Creating interfaces that feel as good as they look ✦</sub>
+<img src="https://komarev.com/ghpvc/?username=MUSKANKUMARI1318&label=VISITORS&style=flat-square&color=8B5CF6"/>
+
+<br><br>
+
+`✦ Code` &nbsp; `✦ Create` &nbsp; `✦ Animate` &nbsp; `✦ Repeat`
 
 </div>
 
