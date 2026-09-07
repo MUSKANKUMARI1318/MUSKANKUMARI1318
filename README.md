@@ -46,7 +46,18 @@
 </div>
 
 ---
----
+
+## 💫 About Me
+
+```javascript
+const muskan = {
+    role: "Full Stack Developer",
+    education: "B.Tech in Computer Science & Engineering",
+    stack: "MERN",
+    languages: ["Java", "Python", "JavaScript", "C"],
+    focus: ["Web Development", "DSA", "Problem Solving"],
+    mindset: "Learn → Build → Improve 🚀"
+};
 
 
 
